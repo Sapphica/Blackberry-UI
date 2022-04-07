@@ -6,7 +6,7 @@ Some of the stuff I made for my old flip phone.
 Just a small part of the code resides on github.  
 
 <div align="center">
-<img src="https://github.com/Sapphica/Blackberry-UI/blob/main/clock.JPG" 
+<img src="https://github.com/Sapphica/Blackberry-UI/blob/main/clock.JPG"> 
 </div>
 
 # Technology Stack
